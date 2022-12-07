@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-
         Car ladaGranta = new Car("Lada", "Lada Granta", 1.7, "желтый", 2015,
                 "Россия");
 //        ladaGranta.brand = "Lada";
